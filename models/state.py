@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" A project by Givens and Essi on class state """
 """This is the state class"""
 from sqlalchemy.ext.declarative import declarative_base
 from models.base_model import BaseModel, Base
