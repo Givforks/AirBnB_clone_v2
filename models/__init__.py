@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" A project by Givens and Essi on init """
 """
 Instantiates a storage object.
 

@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" A project by Givens Emmah Abraham <givens.abraham@live.com> and Essi """
 """ Test module for place.py file. """
 
 from tests.test_models.test_base_model import test_basemodel
